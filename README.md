@@ -2,7 +2,7 @@
 
 ## There are Five features implemented
 
--> Get all Orders from `get orders`
+-> Get all Orders from `Get orders`
 
 -> Post Order with details of id(default by), customer_name, items, status and total(Amt) from `Post orders` 
 
