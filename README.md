@@ -2,10 +2,14 @@
 
 ## There are Five features implemented
 
--> Get all Orders from `get orders` /n
+-> Get all Orders from `get orders`
+
 -> Post Order with details of id(default by), customer_name, items, status and total(Amt) from `Post orders` 
+
 -> Get a Order details from `Get orders/{id}`
+
 -> Update a Order details from `Patch orders/{id}`
+
 -> Get a total orders and total values as order summery from `Get /orders/summary`
 
 
