@@ -2,7 +2,7 @@
 
 ## There are Five features implemented
 
--> Get all Orders from `get orders`
+-> Get all Orders from `get orders` /n
 -> Post Order with details of id(default by), customer_name, items, status and total(Amt) from `Post orders` 
 -> Get a Order details from `Get orders/{id}`
 -> Update a Order details from `Patch orders/{id}`
